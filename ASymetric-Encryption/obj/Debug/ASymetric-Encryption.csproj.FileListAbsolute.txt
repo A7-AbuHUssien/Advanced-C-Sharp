@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\ASymetric-Encryption\bin\Debug\ASymetric-Encryption.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\ASymetric-Encryption\bin\Debug\ASymetric-Encryption.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\ASymetric-Encryption\bin\Debug\ASymetric-Encryption.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\ASymetric-Encryption\obj\Debug\ASymetric-Encryption.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\ASymetric-Encryption\obj\Debug\ASymetric-Encryption.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\ASymetric-Encryption\obj\Debug\ASymetric-Encryption.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\ASymetric-Encryption\obj\Debug\ASymetric-Encryption.pdb
