@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\bin\Debug\Symetric-Encryption.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\bin\Debug\Symetric-Encryption.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\bin\Debug\Symetric-Encryption.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\obj\Debug\Symetric-Encryption.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\obj\Debug\Symetric-Encryption.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\obj\Debug\Symetric-Encryption.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\obj\Debug\Symetric-Encryption.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Symetric-Encryption\obj\Debug\Symetric-Encryption.exe.config
