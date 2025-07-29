@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\bin\Debug\StringBuilder.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\bin\Debug\StringBuilder.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\obj\Debug\StringBuilder.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\obj\Debug\StringBuilder.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\StringBuilder\obj\Debug\StringBuilder.exe.config
