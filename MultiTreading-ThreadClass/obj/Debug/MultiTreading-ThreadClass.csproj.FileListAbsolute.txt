@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\bin\Debug\MultiTreading-ThreadClass.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\bin\Debug\MultiTreading-ThreadClass.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\bin\Debug\MultiTreading-ThreadClass.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\obj\Debug\MultiTreading-ThreadClass.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\obj\Debug\MultiTreading-ThreadClass.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\obj\Debug\MultiTreading-ThreadClass.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\obj\Debug\MultiTreading-ThreadClass.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\MultiTreading-ThreadClass\obj\Debug\MultiTreading-ThreadClass.exe.config
