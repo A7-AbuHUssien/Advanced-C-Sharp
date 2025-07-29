@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\bin\Debug\Reflection.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\bin\Debug\Reflection.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\bin\Debug\Reflection.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\obj\Debug\Reflection.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\obj\Debug\Reflection.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Reflection\obj\Debug\Reflection.exe.config
