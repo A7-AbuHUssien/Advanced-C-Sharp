@@ -1,0 +1,17 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\Asynchronous Programming1.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\Asynchronous Programming1.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\Asynchronous Programming1.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\obj\Debug\Asynchronous Programming1.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\obj\Debug\Asynchronous Programming1.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\obj\Debug\Asynchronous Programming1.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\obj\Debug\Asynchronous Programming1.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\obj\Debug\Asynchronous Programming1.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\obj\Debug\Asynchronous Programming1.csproj.SuggestedBindingRedirects.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\System.Text.Json.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\System.Memory.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\System.IO.Pipelines.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\System.ValueTuple.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\System.Text.Encodings.Web.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\System.Numerics.Vectors.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Asynchronous Programming1\obj\Debug\Asynchro.EE3E4AB4.Up2Date
