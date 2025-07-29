@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\bin\Debug\Operator-Oveloading.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\bin\Debug\Operator-Oveloading.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\bin\Debug\Operator-Oveloading.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\obj\Debug\Operator-Oveloading.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\obj\Debug\Operator-Oveloading.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\obj\Debug\Operator-Oveloading.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\obj\Debug\Operator-Oveloading.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Operator-Oveloading\obj\Debug\Operator-Oveloading.exe.config
