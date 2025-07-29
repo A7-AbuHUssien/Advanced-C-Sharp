@@ -1,0 +1,19 @@
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Task Factory.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Task Factory.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Task Factory.pdb
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\System.Threading.AccessControl.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\System.Threading.Channels.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\obj\Debug\Parallel.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\obj\Debug\Parallel.csproj.SuggestedBindingRedirects.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\obj\Debug\Task Factory.exe.config
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\obj\Debug\Parallel.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\obj\Debug\Parallel.csproj.Up2Date
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\obj\Debug\Task Factory.exe
+D:\ProJect\Fundamental-Stage\Trying\Trying-Advanced-C#\Task Factory\obj\Debug\Task Factory.pdb
